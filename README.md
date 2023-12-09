@@ -21,7 +21,7 @@ The `code/` directory is organized into several subfolders, each dedicated to a 
 3. **After Review**: Analyzes the tone of reviews through sentiment analysis.
 
 ## Usage
-Detailed instructions on how to run and use the code for each sub-task are provided in their respective subfolders.
+Our code can run on Google Colab.
 
 ## Contributions
 - **Dataset Creation**: Compilation of biology papers and their reviews, enhanced with LLM-generated summaries and review question answers.
